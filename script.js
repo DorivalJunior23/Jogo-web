@@ -1,3 +1,8 @@
+
+//A Simple game made in JS
+//Author: Dorival
+
+
 const mario = document.querySelector('.mario');
 const pipe = document.querySelector('.pipe');
 const cloud = document.querySelector('.clouds');
